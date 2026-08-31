@@ -25,10 +25,7 @@ Infra Security Engineer
 * 주요정보통신기반시설 취약점 점검 및 조치 (Windows,Linux,Network,DBMS 등)
 
  ### 보안 자동화
-* Python
-* PowerShell
-* Shell Script
-* API 연동
-* n8n을 이용한 업무 자동화
-
+* Python 기반 보안 운영 업무 자동화
+* PowerShell / Shell Script 등 시스템 관리 및 점검 자동화
+* n8n 기반 워크플로우 자동화
   
